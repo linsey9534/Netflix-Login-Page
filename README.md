@@ -14,7 +14,7 @@ ii. CSS
 Installation
 1. Clone the repository:
 Bash
-git clone https://<repository_url>
+git clone https://<https://github.com/linsey9534/Netflix-Login-Page/tree/main>
 
 2. Navigate to the project directory:
 Bash
